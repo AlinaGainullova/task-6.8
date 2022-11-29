@@ -1,0 +1,20 @@
+h1 {
+    text-align: center;
+    text-decoration: dashed;
+}
+
+.content {
+    text-align: left;
+    color: rgb(106, 103, 109);
+}
+
+h2 {
+    text-align: center;
+    text-decoration: dashed;
+    color: rgb(67, 13, 114);
+}
+
+h3 {
+    background-color: rgb(213, 235, 235);
+}
+
